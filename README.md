@@ -36,6 +36,7 @@ Le but est de maitriser les bases avant de t'apprendre comment animer ton site e
 Afin de comparer ton travail avec les autres moussaillons, voici 2 ARN à traduire en protéines :
 
 --> CCGUCGUUGCGCUACAGC
+
 --> CCUCGCCGGUACUUCUCG
 
 
